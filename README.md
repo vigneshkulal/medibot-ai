@@ -25,10 +25,5 @@ HTML · Tailwind CSS · Vanilla JavaScript · Google Gemini API · Netlify
 1. Download `index.html`
 2. Open in any browser (internet needed for fonts/AI)
 
-## Team Weblaster
-- Vignesh — Team Lead · AI integration
-- Adithya — UI/UX & frontend
-- Sujay — Testing, data & docs
-
 ## Disclaimer
 General wellness guidance only — not a substitute for professional medical advice.
